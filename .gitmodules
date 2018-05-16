@@ -2,3 +2,8 @@
 	path = hondurasopen/account_pdc
 	url = git@github.com:hondurasopen/account_pdc.git
 	branch = master
+
+[submodule "hondurasopen/banks"]
+	path = hondurasopen/banks
+	url = git@github.com:hondurasopen/banks.git
+	branch = master
